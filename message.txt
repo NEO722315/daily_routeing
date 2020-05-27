@@ -1,0 +1,1889 @@
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 马连洼", "education": "本科"}
+{"job_name": "爬虫", "slary": "5k-7k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫", "slary": "15k-30k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫负责人", "slary": "25k-50k", "area": "互联网金融", "education": "10000人以上"}
+{"job_name": "爬虫", "slary": "20k-40k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "计算机软件", "education": "10000人以上"}
+{"job_name": "Python爬虫", "slary": "10k-15k", "area": "北京 海淀区 中关村", "education": "本科"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-28k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-24k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "深圳 南山区 南头", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "南京 江宁区 ", "education": "本科"}
+{"job_name": "高级爬虫", "slary": "20k-27k", "area": "通信/网络设备", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "15k-25k", "area": "北京 海淀区 双榆树", "education": "本科"}
+{"job_name": "爬虫", "slary": "4k-6k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "爬虫", "slary": "3k-6k", "area": "北京 海淀区 马连洼", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "16k-30k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "Java反爬虫", "slary": "25k-45k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "厦门 思明区 会展中心", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "18k-30k", "area": "石家庄  ", "education": "大专"}
+{"job_name": "业务爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "北京 海淀区 大钟寺", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "北京 朝阳区 太阳宫", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "人力资源服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "30k-60k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "工程施工", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "上海 长宁区 古北", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师 T4", "slary": "12k-24k", "area": "广州 番禺区 南村", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "100-499人"}
+{"job_name": "高级python爬虫工程师", "slary": "20k-40k", "area": "北京 海淀区 知春路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "社交网络", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "9k-14k", "area": "青岛  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "计算机软件", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "厦门 思明区 会展中心", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "上海 长宁区 北新泾", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "北京 海淀区 五道口", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "上海 虹口区 四川北路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-9k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "18k-35k", "area": "广州 海珠区 新港", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "13k-20k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "佛山  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "广州 越秀区 水荫", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-13k", "area": "广告/公关/会展", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "25k-35k", "area": "广州 番禺区 市桥", "education": "学历不限"}
+{"job_name": "Python爬虫工程师", "slary": "9k-14k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "网络爬虫", "slary": "10k-15k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫专家", "slary": "2k-3k", "area": "杭州  ", "education": "本科"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "网络爬虫工程师", "slary": "8k-13k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "100-499人"}
+{"job_name": "java爬虫", "slary": "3k-4k", "area": "福州  ", "education": "大专"}
+{"job_name": "Java  爬虫", "slary": "8k-16k", "area": "企业服务", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "常州  ", "education": "本科"}
+{"job_name": "爬虫架构专家", "slary": "20k-40k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "网络爬虫工程师", "slary": "12k-18k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "Java爬虫", "slary": "10k-20k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫架构师", "slary": "13k-20k", "area": "上海 虹口区 四川北路", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "20k-40k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "搜索爬虫工程师", "slary": "20k-30k", "area": "大连  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "JAVA爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "Java爬虫工程师", "slary": "12k-20k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "3k-5k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "10k-15k", "area": "广州  ", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "13k-26k", "area": "其他行业", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "8k-13k", "area": "上海 闵行区 莘庄", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "互联网", "education": "100-499人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-24k", "area": "成都 武侯区 科华北路", "education": "大专"}
+{"job_name": "高级爬虫工程师/专家", "slary": "20k-40k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "Python爬虫工程师", "slary": "20k-30k", "area": "北京  ", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "社交网络", "education": "1000-9999人"}
+{"job_name": "Java爬虫开发", "slary": "12k-24k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-24k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 朝阳区 亮马桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "社交网络", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "杭州 西湖区 古墩路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "郑州  ", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "4k-8k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "杭州 西湖区 古墩路", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "上海 浦东新区 张江", "education": "大专"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "20k-35k", "area": "沈阳  ", "education": "本科"}
+{"job_name": "数据工程（爬虫）", "slary": "20k-30k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "广州 海珠区 琶洲", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "13k-20k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "爬虫架构师", "slary": "5k-10k", "area": "贸易/进出口", "education": "500-999人"}
+{"job_name": "高级爬虫工程师", "slary": "8k-13k", "area": "广州 海珠区 琶洲", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "12k-22k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "高级爬虫工程师", "slary": "20k-30k", "area": "广州 海珠区 琶洲", "education": "本科"}
+{"job_name": "爬虫(Spider)工程师（武汉）", "slary": "16k-30k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 静安区 彭浦", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "郑州  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "郑州  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "深圳 福田区 车公庙", "education": "大专"}
+{"job_name": "python爬虫（腾讯外包）", "slary": "10k-15k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 朝阳区 十里堡", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "25k-40k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "JAVA爬虫架构师", "slary": "35k-45k", "area": "音乐/视频/阅读", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "武汉 武昌区 黄鹤楼", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-30k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "13k-18k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "北京 朝阳区 小营", "education": "本科"}
+{"job_name": "python爬虫讲师", "slary": "10k-15k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "石家庄  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "11k-17k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "北京 海淀区 知春路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "社交网络", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "北京 海淀区 航天桥", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Python工程师（爬虫方向）", "slary": "13k-26k", "area": "深圳 南山区 蛇口", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "15k-18k", "area": "广告营销", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "厦门 思明区 滨海", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "4k-8k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "武汉 武昌区 首义", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "长沙 岳麓区 麓谷", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "高德-爬虫架构专家", "slary": "28k-56k", "area": "北京 海淀区 魏公村", "education": "本科"}
+{"job_name": "Java工程师（爬虫方向）", "slary": "11k-18k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-23k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫实习生", "slary": "4k-6k", "area": "武汉 武昌区 首义", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "济南 历下区 泺源", "education": "本科"}
+{"job_name": "爬虫开发实习生", "slary": "3k-4k", "area": "媒体", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 中关村", "education": "本科"}
+{"job_name": "高级python爬虫工程师", "slary": "20k-30k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "5k-10k", "area": "济南 历城区 齐鲁软件园", "education": "本科"}
+{"job_name": "爬虫", "slary": "7k-12k", "area": "互联网", "education": "100-499人"}
+{"job_name": "Python爬虫工程师", "slary": "5k-10k", "area": "上海 静安区 南京西路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-22k", "area": "杭州  ", "education": "本科"}
+{"job_name": "数据爬虫工程师", "slary": "12k-20k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "网络爬虫", "slary": "3k-8k", "area": "上海 松江区 新桥", "education": "本科"}
+{"job_name": "爬虫经理", "slary": "23k-45k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "1k-2k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "爬虫java", "slary": "8k-10k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "网络爬虫研发工程师", "slary": "9k-14k", "area": "泉州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "20k-40k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "泉州  ", "education": "学历不限"}
+{"job_name": "网络爬虫工程师", "slary": "6k-8k", "area": "厦门 湖里区 万达广场", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "10k-15k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "广州 越秀区 水荫", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师（python）", "slary": "9k-13k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "高级爬虫架构师", "slary": "35k-45k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫⼯工程师", "slary": "18k-35k", "area": "郑州 管城回族区 紫荆山", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "资深Python爬虫工程师", "slary": "25k-50k", "area": "广州 海珠区 客村", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "济南 历下区 奥体中心", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "其他专业服务", "education": "100-499人"}
+{"job_name": "搜索爬虫工程师-搜索与推荐", "slary": "15k-30k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "18k-28k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师中级", "slary": "12k-20k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "12k-16k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫开发工程师", "slary": "9k-14k", "area": "唐山  ", "education": "本科"}
+{"job_name": "爬虫开发工程师", "slary": "8k-15k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "资深爬虫工程师", "slary": "15k-20k", "area": "北京 朝阳区 双桥", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "7k-11k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "python爬虫工程师", "slary": "11k-22k", "area": "上海 闵行区 莘庄", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "北京 海淀区 皂君庙", "education": "本科"}
+{"job_name": "资深爬虫工程师", "slary": "15k-30k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师-QM201908", "slary": "15k-20k", "area": "深圳 南山区 西丽", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师p", "slary": "20k-30k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "爬虫高级工程师", "slary": "15k-30k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "上海  ", "education": "本科"}
+{"job_name": "Python爬虫研发工程师", "slary": "10k-18k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "后端爬虫工程师", "slary": "20k-35k", "area": "西安 碑林区 环城南路", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "20k-30k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "30k-50k", "area": "北京  ", "education": "大专"}
+{"job_name": "python 爬虫工程师", "slary": "8k-10k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "成都 双流区 文星", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "潍坊  ", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "杭州  ", "education": "本科"}
+{"job_name": "爬虫（python）工程师", "slary": "6k-10k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "爬虫专家", "slary": "20k-40k", "area": "北京 朝阳区 双井", "education": "本科"}
+{"job_name": "Python 爬虫工程师", "slary": "10k-20k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "网页爬虫", "slary": "2k-3k", "area": "上海  ", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "7k-12k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "成都 龙泉驿区 大面", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "6k-11k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫架构师", "slary": "20k-40k", "area": "厦门 湖里区 万达广场", "education": "学历不限"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "郑州 管城回族区 郑州东站", "education": "本科"}
+{"job_name": "爬虫工程师（校招）", "slary": "10k-15k", "area": "互联网金融", "education": "100-499人"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "厦门 湖里区 塘边", "education": "大专"}
+{"job_name": "Python爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "0-20人"}
+{"job_name": "高级爬虫工程师", "slary": "8k-12k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "25k-50k", "area": "互联网金融", "education": "100-499人"}
+{"job_name": "java爬虫工程师", "slary": "8k-10k", "area": "深圳 南山区 南山中心", "education": "本科"}
+{"job_name": "python爬虫高级讲师", "slary": "10k-20k", "area": "电子商务", "education": "1000-9999人"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "济南 历下区 佛山街", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "25k-35k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "python爬虫工程师", "slary": "4k-6k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "11k-20k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "数据爬虫工程师", "slary": "10k-15k", "area": "上海  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫定价算法", "slary": "15k-30k", "area": "北京 海淀区 知春路", "education": "本科"}
+{"job_name": "python爬虫实习", "slary": "3k-5k", "area": "上海 徐汇区 田林", "education": "本科"}
+{"job_name": "python爬虫挖掘", "slary": "15k-30k", "area": "旅游", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "深圳 龙华区 龙华", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "6k-11k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-10k", "area": "北京 丰台区 大红门", "education": "大专"}
+{"job_name": "爬虫研发工程师", "slary": "15k-22k", "area": "旅游", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "3k-8k", "area": "贵阳  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "计算机服务", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "7k-10k", "area": "北京 东城区 朝阳门", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "7k-10k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "12k-24k", "area": "济南 历下区 泉城路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "16k-22k", "area": "企业服务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "武汉 洪山区 光谷", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "企业服务", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "杭州 余杭区 仓前", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "烟台  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "计算机软件", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "烟台  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "计算机软件", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "20k-25k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "11k-20k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "广州 白云区 嘉禾", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "广州 海珠区 琶洲", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "运营商/增值服务", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "5k-8k", "area": "北京 海淀区 知春路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 马连洼", "education": "本科"}
+{"job_name": "爬虫", "slary": "5k-7k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫负责人", "slary": "25k-50k", "area": "互联网金融", "education": "10000人以上"}
+{"job_name": "Python爬虫", "slary": "15k-30k", "area": "石家庄  ", "education": "大专"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "15k-20k", "area": "北京 海淀区 中关村", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫", "slary": "10k-15k", "area": "计算机软件", "education": "10000人以上"}
+{"job_name": "高级爬虫", "slary": "25k-45k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "高级爬虫leader", "slary": "30k-40k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "python(爬虫）", "slary": "10k-15k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫", "slary": "20k-40k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "西安  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "物流/仓储", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "南京 江宁区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "通信/网络设备", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "深圳 南山区 南头", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-24k", "area": "北京 海淀区 知春路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "18k-35k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "成都 锦江区 琉璃场", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "计算机软件", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "3k-6k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫", "slary": "4k-6k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "业务爬虫工程师", "slary": "10k-15k", "area": "厦门 思明区 会展中心", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "北京 朝阳区 太阳宫", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "30k-60k", "area": "人力资源服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "北京 海淀区 甘家口", "education": "本科"}
+{"job_name": "Java反爬虫", "slary": "25k-45k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "上海 长宁区 古北", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "13k-26k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-36k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "成都 武侯区 科华北路", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师-金服", "slary": "20k-40k", "area": "上海 徐汇区 龙华", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "医疗健康", "education": "1000-9999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "20k-30k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "搜索爬虫工程师", "slary": "20k-30k", "area": "地产经纪/中介", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-4k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "工程施工", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "广州 番禺区 市桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "9k-14k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师 T4", "slary": "12k-24k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "南京 玄武区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "14k-28k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "天津 西青区 华苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 牡丹园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-9k", "area": "上海 徐汇区 徐家汇", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "合肥  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "8k-13k", "area": "沈阳  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "计算机服务", "education": "500-999人"}
+{"job_name": "网络爬虫", "slary": "10k-15k", "area": "厦门 湖里区 金山", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "武汉 洪山区 光谷东", "education": "本科"}
+{"job_name": "网络爬虫工程师", "slary": "12k-18k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "python爬虫工程师", "slary": "3k-5k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-35k", "area": "广告/公关/会展", "education": "500-999人"}
+{"job_name": "Java  爬虫", "slary": "8k-16k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "1000-9999人"}
+{"job_name": "网络爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "优图爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "网络爬虫", "slary": "5k-8k", "area": "杭州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫", "slary": "10k-15k", "area": "广州 越秀区 水荫", "education": "大专"}
+{"job_name": "爬虫架构师", "slary": "13k-20k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "福州  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "企业服务", "education": "100-499人"}
+{"job_name": "java爬虫", "slary": "3k-4k", "area": "广州  ", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "20k-35k", "area": "其他行业", "education": "1000-9999人"}
+{"job_name": "爬虫架构专家", "slary": "30k-50k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "20k-30k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "后端开发（爬虫方向）", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "7k-12k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫/数据标注", "slary": "6k-9k", "area": "分类信息", "education": "10000人以上"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "泉州  ", "education": "学历不限"}
+{"job_name": "爬虫", "slary": "8k-13k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫实习生", "slary": "10k-12k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "16k-30k", "area": "苏州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "20k-40k", "area": "银行", "education": "1000-9999人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-24k", "area": "北京 东城区 朝阳门", "education": "本科"}
+{"job_name": "Java爬虫开发", "slary": "12k-24k", "area": "互联网", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 西北旺", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "12k-20k", "area": "餐饮", "education": "10000人以上"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "北京  ", "education": "本科"}
+{"job_name": "爬虫工程师（python）", "slary": "9k-13k", "area": "社交网络", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "35k-50k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "南京 建邺区 奥体", "education": "学历不限"}
+{"job_name": "爬虫高级工程师", "slary": "20k-40k", "area": "互联网金融", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-40k", "area": "北京 朝阳区 亮马桥", "education": "本科"}
+{"job_name": "数据工程（爬虫）", "slary": "20k-30k", "area": "社交网络", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "郑州  ", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫架构师", "slary": "30k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "8k-13k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-22k", "area": "上海 浦东新区 张江", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 皂君庙", "education": "本科"}
+{"job_name": "爬虫(Spider)工程师（武汉）", "slary": "16k-30k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "石家庄  ", "education": "本科"}
+{"job_name": "JAVA爬虫架构师", "slary": "35k-45k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 宝安区 新安", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫讲师", "slary": "10k-15k", "area": "深圳 福田区 华侨城", "education": "大专"}
+{"job_name": "高级Python爬虫工程师", "slary": "15k-25k", "area": "游戏", "education": "100-499人"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-23k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "杭州 西湖区 西溪", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "高级python爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java爬虫工程师", "slary": "4k-8k", "area": "长沙 岳麓区 麓谷", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java工程师（爬虫方向）", "slary": "11k-18k", "area": "成都 武侯区 科华北路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "厦门 思明区 滨海", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "13k-18k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "潍坊  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "济南 历下区 泺源", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-8k", "area": "媒体", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "济南 历下区 佛山街", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "苏州 吴中区 独墅湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "武汉 武昌区 黄鹤楼", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "济南 历城区 齐鲁软件园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "11k-17k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "上海 浦东新区 源深", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "成都 武侯区 新会展", "education": "本科"}
+{"job_name": "高德-爬虫架构专家", "slary": "28k-56k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 静安区 南京西路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-7k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "5k-10k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "合肥  ", "education": "本科"}
+{"job_name": "爬虫主管", "slary": "25k-40k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 朝阳区 四惠", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "咨询", "education": "100-499人"}
+{"job_name": "网络爬虫", "slary": "3k-8k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫经理", "slary": "23k-45k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "郑州  ", "education": "本科"}
+{"job_name": "网络爬虫研发工程师", "slary": "9k-14k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "厦门 湖里区 万达广场", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "1k-2k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "网络爬虫工程师", "slary": "6k-8k", "area": "成都 青羊区 天府广场", "education": "大专"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫架构师", "slary": "5k-10k", "area": "上海 浦东新区 陆家嘴", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "0-20人"}
+{"job_name": "爬虫java", "slary": "8k-10k", "area": "南京  ", "education": "本科"}
+{"job_name": "高级爬虫架构师", "slary": "35k-45k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-20k", "area": "成都 武侯区 火车南站", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "11k-18k", "area": "移动互联网", "education": "0-20人"}
+{"job_name": "Python爬虫⼯工程师", "slary": "18k-35k", "area": "济南 历下区 奥体中心", "education": "大专"}
+{"job_name": "高级爬虫Python工程师", "slary": "14k-28k", "area": "其他专业服务", "education": "100-499人"}
+{"job_name": "搜索爬虫工程师-搜索与推荐", "slary": "15k-30k", "area": "长沙 雨花区 高桥", "education": "大专"}
+{"job_name": "资深Python爬虫工程师", "slary": "25k-50k", "area": "法律", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "高级爬虫工程师", "slary": "8k-12k", "area": "互联网", "education": "500-999人"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师-QM201908", "slary": "15k-20k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫高级工程师", "slary": "15k-30k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师中级", "slary": "12k-20k", "area": "北京 朝阳区 望京", "education": "硕士"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "Python爬虫研发工程师", "slary": "10k-18k", "area": "武汉 江汉区 常青", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "Java爬虫工程师", "slary": "5k-10k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "25k-35k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "20k-35k", "area": "广州 海珠区 客村", "education": "学历不限"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "杭州 滨江区 滨江区政府", "education": "本科"}
+{"job_name": "资深爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python 爬虫工程师", "slary": "8k-10k", "area": "成都 锦江区 琉璃场", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "O2O", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "12k-16k", "area": "广告营销", "education": "100-499人"}
+{"job_name": "爬虫专家", "slary": "20k-40k", "area": "深圳 南山区 南山中心", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "1000-9999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "深圳 南山区 西丽", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "10k-12k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-50k", "area": "厦门 湖里区 万达广场", "education": "学历不限"}
+{"job_name": "爬虫开发工程师", "slary": "8k-12k", "area": "杭州 西湖区 黄龙", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "30k-50k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师（校招）", "slary": "10k-15k", "area": "上海 闵行区 莘庄", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "上海 静安区 汶水路", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "9k-14k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "8k-15k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "8k-11k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫工程师", "slary": "11k-22k", "area": "武汉 洪山区 光谷", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "20k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "后端爬虫工程师", "slary": "20k-35k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "7k-12k", "area": "互联网", "education": "100-499人"}
+{"job_name": "资深爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫工程师p", "slary": "20k-30k", "area": "深圳 宝安区 西乡", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "6k-11k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "北京 朝阳区 双井", "education": "本科"}
+{"job_name": "爬虫架构师", "slary": "20k-40k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫（python）工程师", "slary": "6k-10k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "7k-11k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "Python爬虫工程师", "slary": "10k-15k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "python爬虫实习", "slary": "3k-5k", "area": "上海 徐汇区 田林", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "旅游", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "8k-10k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "上海 虹口区 四川北路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "9k-14k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "上海 浦东新区 潍坊", "education": "大专"}
+{"job_name": "爬虫研发工程师", "slary": "15k-22k", "area": "电子商务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-5k", "area": "广告营销", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-10k", "area": "上海  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 江干区 四季青", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "20-99人"}
+{"job_name": "java爬虫工程师", "slary": "6k-10k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "济南 历下区 泉城路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "15k-24k", "area": "企业服务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "6k-11k", "area": "杭州 余杭区 仓前", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "7k-10k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "高薪直聘爬虫工程师", "slary": "4k-6k", "area": "北京 西城区 西单", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "python爬虫工程师", "slary": "4k-6k", "area": "长沙 岳麓区 麓谷", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "python爬虫挖掘", "slary": "15k-30k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-25k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "上海 杨浦区 五角场", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "爬虫定价算法", "slary": "15k-30k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 马连洼", "education": "本科"}
+{"job_name": "爬虫", "slary": "5k-7k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫负责人", "slary": "25k-50k", "area": "互联网金融", "education": "10000人以上"}
+{"job_name": "Python爬虫", "slary": "15k-30k", "area": "石家庄  ", "education": "大专"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "15k-20k", "area": "北京 海淀区 中关村", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫", "slary": "10k-15k", "area": "计算机软件", "education": "10000人以上"}
+{"job_name": "高级爬虫", "slary": "25k-45k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "高级爬虫leader", "slary": "30k-40k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "python(爬虫）", "slary": "10k-15k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫", "slary": "20k-40k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "西安  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "物流/仓储", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "南京 江宁区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "通信/网络设备", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "深圳 南山区 南头", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-24k", "area": "北京 海淀区 知春路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "18k-35k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "成都 锦江区 琉璃场", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "计算机软件", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "3k-6k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫", "slary": "4k-6k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "业务爬虫工程师", "slary": "10k-15k", "area": "厦门 思明区 会展中心", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "北京 朝阳区 太阳宫", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "30k-60k", "area": "人力资源服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "北京 海淀区 甘家口", "education": "本科"}
+{"job_name": "Java反爬虫", "slary": "25k-45k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "上海 长宁区 古北", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "13k-26k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-36k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "成都 武侯区 科华北路", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师-金服", "slary": "20k-40k", "area": "上海 徐汇区 龙华", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "医疗健康", "education": "1000-9999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "20k-30k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "搜索爬虫工程师", "slary": "20k-30k", "area": "地产经纪/中介", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-4k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "工程施工", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "广州 番禺区 市桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "9k-14k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师 T4", "slary": "12k-24k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "南京 玄武区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "14k-28k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "天津 西青区 华苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 牡丹园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-9k", "area": "上海 徐汇区 徐家汇", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "合肥  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "8k-13k", "area": "沈阳  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "计算机服务", "education": "500-999人"}
+{"job_name": "网络爬虫", "slary": "10k-15k", "area": "厦门 湖里区 金山", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "武汉 洪山区 光谷东", "education": "本科"}
+{"job_name": "网络爬虫工程师", "slary": "12k-18k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "python爬虫工程师", "slary": "3k-5k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-35k", "area": "广告/公关/会展", "education": "500-999人"}
+{"job_name": "Java  爬虫", "slary": "8k-16k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "1000-9999人"}
+{"job_name": "网络爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "优图爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "网络爬虫", "slary": "5k-8k", "area": "杭州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫", "slary": "10k-15k", "area": "广州 越秀区 水荫", "education": "大专"}
+{"job_name": "爬虫架构师", "slary": "13k-20k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "福州  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "企业服务", "education": "100-499人"}
+{"job_name": "java爬虫", "slary": "3k-4k", "area": "广州  ", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "20k-35k", "area": "其他行业", "education": "1000-9999人"}
+{"job_name": "爬虫架构专家", "slary": "30k-50k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "20k-30k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "后端开发（爬虫方向）", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "7k-12k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫/数据标注", "slary": "6k-9k", "area": "分类信息", "education": "10000人以上"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "泉州  ", "education": "学历不限"}
+{"job_name": "爬虫", "slary": "8k-13k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫实习生", "slary": "10k-12k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "16k-30k", "area": "苏州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "20k-40k", "area": "银行", "education": "1000-9999人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-24k", "area": "北京 东城区 朝阳门", "education": "本科"}
+{"job_name": "Java爬虫开发", "slary": "12k-24k", "area": "互联网", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 西北旺", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "12k-20k", "area": "餐饮", "education": "10000人以上"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "北京  ", "education": "本科"}
+{"job_name": "爬虫工程师（python）", "slary": "9k-13k", "area": "社交网络", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "35k-50k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "南京 建邺区 奥体", "education": "学历不限"}
+{"job_name": "爬虫高级工程师", "slary": "20k-40k", "area": "互联网金融", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-40k", "area": "北京 朝阳区 亮马桥", "education": "本科"}
+{"job_name": "数据工程（爬虫）", "slary": "20k-30k", "area": "社交网络", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "郑州  ", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫架构师", "slary": "30k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "8k-13k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-22k", "area": "上海 浦东新区 张江", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 皂君庙", "education": "本科"}
+{"job_name": "爬虫(Spider)工程师（武汉）", "slary": "16k-30k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "石家庄  ", "education": "本科"}
+{"job_name": "JAVA爬虫架构师", "slary": "35k-45k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 宝安区 新安", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫讲师", "slary": "10k-15k", "area": "深圳 福田区 华侨城", "education": "大专"}
+{"job_name": "高级Python爬虫工程师", "slary": "15k-25k", "area": "游戏", "education": "100-499人"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-23k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "杭州 西湖区 西溪", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "高级python爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java爬虫工程师", "slary": "4k-8k", "area": "长沙 岳麓区 麓谷", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java工程师（爬虫方向）", "slary": "11k-18k", "area": "成都 武侯区 科华北路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "厦门 思明区 滨海", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "13k-18k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "潍坊  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "济南 历下区 泺源", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-8k", "area": "媒体", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "济南 历下区 佛山街", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "苏州 吴中区 独墅湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "武汉 武昌区 黄鹤楼", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "济南 历城区 齐鲁软件园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "11k-17k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "上海 浦东新区 源深", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "成都 武侯区 新会展", "education": "本科"}
+{"job_name": "高德-爬虫架构专家", "slary": "28k-56k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 静安区 南京西路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-7k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "5k-10k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "合肥  ", "education": "本科"}
+{"job_name": "爬虫主管", "slary": "25k-40k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 朝阳区 四惠", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "咨询", "education": "100-499人"}
+{"job_name": "网络爬虫", "slary": "3k-8k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫经理", "slary": "23k-45k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "郑州  ", "education": "本科"}
+{"job_name": "网络爬虫研发工程师", "slary": "9k-14k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "厦门 湖里区 万达广场", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "1k-2k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "网络爬虫工程师", "slary": "6k-8k", "area": "成都 青羊区 天府广场", "education": "大专"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫架构师", "slary": "5k-10k", "area": "上海 浦东新区 陆家嘴", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "0-20人"}
+{"job_name": "爬虫java", "slary": "8k-10k", "area": "南京  ", "education": "本科"}
+{"job_name": "高级爬虫架构师", "slary": "35k-45k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-20k", "area": "成都 武侯区 火车南站", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "11k-18k", "area": "移动互联网", "education": "0-20人"}
+{"job_name": "Python爬虫⼯工程师", "slary": "18k-35k", "area": "济南 历下区 奥体中心", "education": "大专"}
+{"job_name": "高级爬虫Python工程师", "slary": "14k-28k", "area": "其他专业服务", "education": "100-499人"}
+{"job_name": "搜索爬虫工程师-搜索与推荐", "slary": "15k-30k", "area": "长沙 雨花区 高桥", "education": "大专"}
+{"job_name": "资深Python爬虫工程师", "slary": "25k-50k", "area": "法律", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "高级爬虫工程师", "slary": "8k-12k", "area": "互联网", "education": "500-999人"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师-QM201908", "slary": "15k-20k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫高级工程师", "slary": "15k-30k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师中级", "slary": "12k-20k", "area": "北京 朝阳区 望京", "education": "硕士"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "Python爬虫研发工程师", "slary": "10k-18k", "area": "武汉 江汉区 常青", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "Java爬虫工程师", "slary": "5k-10k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "25k-35k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "20k-35k", "area": "广州 海珠区 客村", "education": "学历不限"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "杭州 滨江区 滨江区政府", "education": "本科"}
+{"job_name": "资深爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python 爬虫工程师", "slary": "8k-10k", "area": "成都 锦江区 琉璃场", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "O2O", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "12k-16k", "area": "广告营销", "education": "100-499人"}
+{"job_name": "爬虫专家", "slary": "20k-40k", "area": "深圳 南山区 南山中心", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "1000-9999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "深圳 南山区 西丽", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "10k-12k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-50k", "area": "厦门 湖里区 万达广场", "education": "学历不限"}
+{"job_name": "爬虫开发工程师", "slary": "8k-12k", "area": "杭州 西湖区 黄龙", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "30k-50k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师（校招）", "slary": "10k-15k", "area": "上海 闵行区 莘庄", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "上海 静安区 汶水路", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "9k-14k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "8k-15k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "8k-11k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫工程师", "slary": "11k-22k", "area": "武汉 洪山区 光谷", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "20k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "后端爬虫工程师", "slary": "20k-35k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "7k-12k", "area": "互联网", "education": "100-499人"}
+{"job_name": "资深爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫工程师p", "slary": "20k-30k", "area": "深圳 宝安区 西乡", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "6k-11k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "北京 朝阳区 双井", "education": "本科"}
+{"job_name": "爬虫架构师", "slary": "20k-40k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫（python）工程师", "slary": "6k-10k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "7k-11k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "Python爬虫工程师", "slary": "10k-15k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "python爬虫实习", "slary": "3k-5k", "area": "上海 徐汇区 田林", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "旅游", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "8k-10k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "上海 虹口区 四川北路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "9k-14k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "上海 浦东新区 潍坊", "education": "大专"}
+{"job_name": "爬虫研发工程师", "slary": "15k-22k", "area": "电子商务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-5k", "area": "广告营销", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-10k", "area": "上海  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 江干区 四季青", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "20-99人"}
+{"job_name": "java爬虫工程师", "slary": "6k-10k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "济南 历下区 泉城路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "15k-24k", "area": "企业服务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "6k-11k", "area": "杭州 余杭区 仓前", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "7k-10k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "高薪直聘爬虫工程师", "slary": "4k-6k", "area": "北京 西城区 西单", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "python爬虫工程师", "slary": "4k-6k", "area": "长沙 岳麓区 麓谷", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "python爬虫挖掘", "slary": "15k-30k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-25k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "上海 杨浦区 五角场", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "爬虫定价算法", "slary": "15k-30k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 马连洼", "education": "本科"}
+{"job_name": "爬虫", "slary": "5k-7k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫负责人", "slary": "25k-50k", "area": "互联网金融", "education": "10000人以上"}
+{"job_name": "Python爬虫", "slary": "15k-30k", "area": "石家庄  ", "education": "大专"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "15k-20k", "area": "北京 海淀区 中关村", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫", "slary": "10k-15k", "area": "计算机软件", "education": "10000人以上"}
+{"job_name": "高级爬虫", "slary": "25k-45k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "高级爬虫leader", "slary": "30k-40k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "python(爬虫）", "slary": "10k-15k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫", "slary": "20k-40k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "西安  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "物流/仓储", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "南京 江宁区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "通信/网络设备", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "深圳 南山区 南头", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-24k", "area": "北京 海淀区 知春路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "18k-35k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "成都 锦江区 琉璃场", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "计算机软件", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "3k-6k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫", "slary": "4k-6k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "业务爬虫工程师", "slary": "10k-15k", "area": "厦门 思明区 会展中心", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "北京 朝阳区 太阳宫", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "30k-60k", "area": "人力资源服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "北京 海淀区 甘家口", "education": "本科"}
+{"job_name": "Java反爬虫", "slary": "25k-45k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "上海 长宁区 古北", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "13k-26k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-36k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "成都 武侯区 科华北路", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师-金服", "slary": "20k-40k", "area": "上海 徐汇区 龙华", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "医疗健康", "education": "1000-9999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "20k-30k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "搜索爬虫工程师", "slary": "20k-30k", "area": "地产经纪/中介", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-4k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "工程施工", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "广州 番禺区 市桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "9k-14k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师 T4", "slary": "12k-24k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "南京 玄武区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "14k-28k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "天津 西青区 华苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 牡丹园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-9k", "area": "上海 徐汇区 徐家汇", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "合肥  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "8k-13k", "area": "沈阳  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "计算机服务", "education": "500-999人"}
+{"job_name": "网络爬虫", "slary": "10k-15k", "area": "厦门 湖里区 金山", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "武汉 洪山区 光谷东", "education": "本科"}
+{"job_name": "网络爬虫工程师", "slary": "12k-18k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "python爬虫工程师", "slary": "3k-5k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-35k", "area": "广告/公关/会展", "education": "500-999人"}
+{"job_name": "Java  爬虫", "slary": "8k-16k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "1000-9999人"}
+{"job_name": "网络爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "优图爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "网络爬虫", "slary": "5k-8k", "area": "杭州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫", "slary": "10k-15k", "area": "广州 越秀区 水荫", "education": "大专"}
+{"job_name": "爬虫架构师", "slary": "13k-20k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "福州  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "企业服务", "education": "100-499人"}
+{"job_name": "java爬虫", "slary": "3k-4k", "area": "广州  ", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "20k-35k", "area": "其他行业", "education": "1000-9999人"}
+{"job_name": "爬虫架构专家", "slary": "30k-50k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "20k-30k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "后端开发（爬虫方向）", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "7k-12k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫/数据标注", "slary": "6k-9k", "area": "分类信息", "education": "10000人以上"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "泉州  ", "education": "学历不限"}
+{"job_name": "爬虫", "slary": "8k-13k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫实习生", "slary": "10k-12k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "16k-30k", "area": "苏州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "20k-40k", "area": "银行", "education": "1000-9999人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-24k", "area": "北京 东城区 朝阳门", "education": "本科"}
+{"job_name": "Java爬虫开发", "slary": "12k-24k", "area": "互联网", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 西北旺", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "12k-20k", "area": "餐饮", "education": "10000人以上"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "北京  ", "education": "本科"}
+{"job_name": "爬虫工程师（python）", "slary": "9k-13k", "area": "社交网络", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "35k-50k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "南京 建邺区 奥体", "education": "学历不限"}
+{"job_name": "爬虫高级工程师", "slary": "20k-40k", "area": "互联网金融", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-40k", "area": "北京 朝阳区 亮马桥", "education": "本科"}
+{"job_name": "数据工程（爬虫）", "slary": "20k-30k", "area": "社交网络", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "郑州  ", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫架构师", "slary": "30k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "8k-13k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-22k", "area": "上海 浦东新区 张江", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 皂君庙", "education": "本科"}
+{"job_name": "爬虫(Spider)工程师（武汉）", "slary": "16k-30k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "石家庄  ", "education": "本科"}
+{"job_name": "JAVA爬虫架构师", "slary": "35k-45k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 宝安区 新安", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫讲师", "slary": "10k-15k", "area": "深圳 福田区 华侨城", "education": "大专"}
+{"job_name": "高级Python爬虫工程师", "slary": "15k-25k", "area": "游戏", "education": "100-499人"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-23k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "杭州 西湖区 西溪", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "高级python爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java爬虫工程师", "slary": "4k-8k", "area": "长沙 岳麓区 麓谷", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java工程师（爬虫方向）", "slary": "11k-18k", "area": "成都 武侯区 科华北路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "厦门 思明区 滨海", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "13k-18k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "潍坊  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "济南 历下区 泺源", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-8k", "area": "媒体", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "济南 历下区 佛山街", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "苏州 吴中区 独墅湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "武汉 武昌区 黄鹤楼", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "济南 历城区 齐鲁软件园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "11k-17k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "上海 浦东新区 源深", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "成都 武侯区 新会展", "education": "本科"}
+{"job_name": "高德-爬虫架构专家", "slary": "28k-56k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 静安区 南京西路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-7k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "5k-10k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "合肥  ", "education": "本科"}
+{"job_name": "爬虫主管", "slary": "25k-40k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 朝阳区 四惠", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "咨询", "education": "100-499人"}
+{"job_name": "网络爬虫", "slary": "3k-8k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫经理", "slary": "23k-45k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "郑州  ", "education": "本科"}
+{"job_name": "网络爬虫研发工程师", "slary": "9k-14k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "厦门 湖里区 万达广场", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "1k-2k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "网络爬虫工程师", "slary": "6k-8k", "area": "成都 青羊区 天府广场", "education": "大专"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫架构师", "slary": "5k-10k", "area": "上海 浦东新区 陆家嘴", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "0-20人"}
+{"job_name": "爬虫java", "slary": "8k-10k", "area": "南京  ", "education": "本科"}
+{"job_name": "高级爬虫架构师", "slary": "35k-45k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-20k", "area": "成都 武侯区 火车南站", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "11k-18k", "area": "移动互联网", "education": "0-20人"}
+{"job_name": "Python爬虫⼯工程师", "slary": "18k-35k", "area": "济南 历下区 奥体中心", "education": "大专"}
+{"job_name": "高级爬虫Python工程师", "slary": "14k-28k", "area": "其他专业服务", "education": "100-499人"}
+{"job_name": "搜索爬虫工程师-搜索与推荐", "slary": "15k-30k", "area": "长沙 雨花区 高桥", "education": "大专"}
+{"job_name": "资深Python爬虫工程师", "slary": "25k-50k", "area": "法律", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "高级爬虫工程师", "slary": "8k-12k", "area": "互联网", "education": "500-999人"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师-QM201908", "slary": "15k-20k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫高级工程师", "slary": "15k-30k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师中级", "slary": "12k-20k", "area": "北京 朝阳区 望京", "education": "硕士"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "Python爬虫研发工程师", "slary": "10k-18k", "area": "武汉 江汉区 常青", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "Java爬虫工程师", "slary": "5k-10k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "25k-35k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "20k-35k", "area": "广州 海珠区 客村", "education": "学历不限"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "杭州 滨江区 滨江区政府", "education": "本科"}
+{"job_name": "资深爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python 爬虫工程师", "slary": "8k-10k", "area": "成都 锦江区 琉璃场", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "O2O", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "12k-16k", "area": "广告营销", "education": "100-499人"}
+{"job_name": "爬虫专家", "slary": "20k-40k", "area": "深圳 南山区 南山中心", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "1000-9999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "深圳 南山区 西丽", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "10k-12k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-50k", "area": "厦门 湖里区 万达广场", "education": "学历不限"}
+{"job_name": "爬虫开发工程师", "slary": "8k-12k", "area": "杭州 西湖区 黄龙", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "30k-50k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师（校招）", "slary": "10k-15k", "area": "上海 闵行区 莘庄", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "上海 静安区 汶水路", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "9k-14k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "8k-15k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "8k-11k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫工程师", "slary": "11k-22k", "area": "武汉 洪山区 光谷", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "20k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "后端爬虫工程师", "slary": "20k-35k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "7k-12k", "area": "互联网", "education": "100-499人"}
+{"job_name": "资深爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫工程师p", "slary": "20k-30k", "area": "深圳 宝安区 西乡", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "6k-11k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "北京 朝阳区 双井", "education": "本科"}
+{"job_name": "爬虫架构师", "slary": "20k-40k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫（python）工程师", "slary": "6k-10k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "7k-11k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "Python爬虫工程师", "slary": "10k-15k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "python爬虫实习", "slary": "3k-5k", "area": "上海 徐汇区 田林", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "旅游", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "8k-10k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "上海 虹口区 四川北路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "9k-14k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "上海 浦东新区 潍坊", "education": "大专"}
+{"job_name": "爬虫研发工程师", "slary": "15k-22k", "area": "电子商务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-5k", "area": "广告营销", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-10k", "area": "上海  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 江干区 四季青", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "20-99人"}
+{"job_name": "java爬虫工程师", "slary": "6k-10k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "济南 历下区 泉城路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "15k-24k", "area": "企业服务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "6k-11k", "area": "杭州 余杭区 仓前", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "7k-10k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "高薪直聘爬虫工程师", "slary": "4k-6k", "area": "北京 西城区 西单", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "python爬虫工程师", "slary": "4k-6k", "area": "长沙 岳麓区 麓谷", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "python爬虫挖掘", "slary": "15k-30k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-25k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "上海 杨浦区 五角场", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "爬虫定价算法", "slary": "15k-30k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 马连洼", "education": "本科"}
+{"job_name": "爬虫", "slary": "5k-7k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫负责人", "slary": "25k-50k", "area": "互联网金融", "education": "10000人以上"}
+{"job_name": "Python爬虫", "slary": "15k-30k", "area": "石家庄  ", "education": "大专"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "15k-20k", "area": "北京 海淀区 中关村", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫", "slary": "10k-15k", "area": "计算机软件", "education": "10000人以上"}
+{"job_name": "高级爬虫", "slary": "25k-45k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "高级爬虫leader", "slary": "30k-40k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "python(爬虫）", "slary": "10k-15k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫", "slary": "20k-40k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "西安  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "物流/仓储", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "南京 江宁区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "通信/网络设备", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "深圳 南山区 南头", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-24k", "area": "北京 海淀区 知春路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "18k-35k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "成都 锦江区 琉璃场", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "计算机软件", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "3k-6k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫", "slary": "4k-6k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "业务爬虫工程师", "slary": "10k-15k", "area": "厦门 思明区 会展中心", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "北京 朝阳区 太阳宫", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "30k-60k", "area": "人力资源服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "北京 海淀区 甘家口", "education": "本科"}
+{"job_name": "Java反爬虫", "slary": "25k-45k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "上海 长宁区 古北", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "13k-26k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-36k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "成都 武侯区 科华北路", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师-金服", "slary": "20k-40k", "area": "上海 徐汇区 龙华", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "医疗健康", "education": "1000-9999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "20k-30k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "搜索爬虫工程师", "slary": "20k-30k", "area": "地产经纪/中介", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-4k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "工程施工", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "广州 番禺区 市桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "9k-14k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师 T4", "slary": "12k-24k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "南京 玄武区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "14k-28k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "天津 西青区 华苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 牡丹园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-9k", "area": "上海 徐汇区 徐家汇", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "合肥  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "8k-13k", "area": "沈阳  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "计算机服务", "education": "500-999人"}
+{"job_name": "网络爬虫", "slary": "10k-15k", "area": "厦门 湖里区 金山", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "武汉 洪山区 光谷东", "education": "本科"}
+{"job_name": "网络爬虫工程师", "slary": "12k-18k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "python爬虫工程师", "slary": "3k-5k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-35k", "area": "广告/公关/会展", "education": "500-999人"}
+{"job_name": "Java  爬虫", "slary": "8k-16k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "1000-9999人"}
+{"job_name": "网络爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "优图爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "网络爬虫", "slary": "5k-8k", "area": "杭州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫", "slary": "10k-15k", "area": "广州 越秀区 水荫", "education": "大专"}
+{"job_name": "爬虫架构师", "slary": "13k-20k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "福州  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "企业服务", "education": "100-499人"}
+{"job_name": "java爬虫", "slary": "3k-4k", "area": "广州  ", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "20k-35k", "area": "其他行业", "education": "1000-9999人"}
+{"job_name": "爬虫架构专家", "slary": "30k-50k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "20k-30k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "后端开发（爬虫方向）", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "7k-12k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫/数据标注", "slary": "6k-9k", "area": "分类信息", "education": "10000人以上"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "泉州  ", "education": "学历不限"}
+{"job_name": "爬虫", "slary": "8k-13k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫实习生", "slary": "10k-12k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "16k-30k", "area": "苏州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "20k-40k", "area": "银行", "education": "1000-9999人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-24k", "area": "北京 东城区 朝阳门", "education": "本科"}
+{"job_name": "Java爬虫开发", "slary": "12k-24k", "area": "互联网", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 西北旺", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "12k-20k", "area": "餐饮", "education": "10000人以上"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "北京  ", "education": "本科"}
+{"job_name": "爬虫工程师（python）", "slary": "9k-13k", "area": "社交网络", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "35k-50k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "南京 建邺区 奥体", "education": "学历不限"}
+{"job_name": "爬虫高级工程师", "slary": "20k-40k", "area": "互联网金融", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-40k", "area": "北京 朝阳区 亮马桥", "education": "本科"}
+{"job_name": "数据工程（爬虫）", "slary": "20k-30k", "area": "社交网络", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "郑州  ", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫架构师", "slary": "30k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "8k-13k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-22k", "area": "上海 浦东新区 张江", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 皂君庙", "education": "本科"}
+{"job_name": "爬虫(Spider)工程师（武汉）", "slary": "16k-30k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "石家庄  ", "education": "本科"}
+{"job_name": "JAVA爬虫架构师", "slary": "35k-45k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 宝安区 新安", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫讲师", "slary": "10k-15k", "area": "深圳 福田区 华侨城", "education": "大专"}
+{"job_name": "高级Python爬虫工程师", "slary": "15k-25k", "area": "游戏", "education": "100-499人"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-23k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "杭州 西湖区 西溪", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "高级python爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java爬虫工程师", "slary": "4k-8k", "area": "长沙 岳麓区 麓谷", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java工程师（爬虫方向）", "slary": "11k-18k", "area": "成都 武侯区 科华北路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "厦门 思明区 滨海", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "13k-18k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "潍坊  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "济南 历下区 泺源", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-8k", "area": "媒体", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "济南 历下区 佛山街", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "苏州 吴中区 独墅湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "武汉 武昌区 黄鹤楼", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "济南 历城区 齐鲁软件园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "11k-17k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "上海 浦东新区 源深", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "成都 武侯区 新会展", "education": "本科"}
+{"job_name": "高德-爬虫架构专家", "slary": "28k-56k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 静安区 南京西路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-7k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "5k-10k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "合肥  ", "education": "本科"}
+{"job_name": "爬虫主管", "slary": "25k-40k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 朝阳区 四惠", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "咨询", "education": "100-499人"}
+{"job_name": "网络爬虫", "slary": "3k-8k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫经理", "slary": "23k-45k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "郑州  ", "education": "本科"}
+{"job_name": "网络爬虫研发工程师", "slary": "9k-14k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "厦门 湖里区 万达广场", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "1k-2k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "网络爬虫工程师", "slary": "6k-8k", "area": "成都 青羊区 天府广场", "education": "大专"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫架构师", "slary": "5k-10k", "area": "上海 浦东新区 陆家嘴", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "0-20人"}
+{"job_name": "爬虫java", "slary": "8k-10k", "area": "南京  ", "education": "本科"}
+{"job_name": "高级爬虫架构师", "slary": "35k-45k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-20k", "area": "成都 武侯区 火车南站", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "11k-18k", "area": "移动互联网", "education": "0-20人"}
+{"job_name": "Python爬虫⼯工程师", "slary": "18k-35k", "area": "济南 历下区 奥体中心", "education": "大专"}
+{"job_name": "高级爬虫Python工程师", "slary": "14k-28k", "area": "其他专业服务", "education": "100-499人"}
+{"job_name": "搜索爬虫工程师-搜索与推荐", "slary": "15k-30k", "area": "长沙 雨花区 高桥", "education": "大专"}
+{"job_name": "资深Python爬虫工程师", "slary": "25k-50k", "area": "法律", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "高级爬虫工程师", "slary": "8k-12k", "area": "互联网", "education": "500-999人"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师-QM201908", "slary": "15k-20k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫高级工程师", "slary": "15k-30k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师中级", "slary": "12k-20k", "area": "北京 朝阳区 望京", "education": "硕士"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "Python爬虫研发工程师", "slary": "10k-18k", "area": "武汉 江汉区 常青", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "Java爬虫工程师", "slary": "5k-10k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "25k-35k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "20k-35k", "area": "广州 海珠区 客村", "education": "学历不限"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "杭州 滨江区 滨江区政府", "education": "本科"}
+{"job_name": "资深爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python 爬虫工程师", "slary": "8k-10k", "area": "成都 锦江区 琉璃场", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "O2O", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "12k-16k", "area": "广告营销", "education": "100-499人"}
+{"job_name": "爬虫专家", "slary": "20k-40k", "area": "深圳 南山区 南山中心", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "1000-9999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "深圳 南山区 西丽", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "10k-12k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-50k", "area": "厦门 湖里区 万达广场", "education": "学历不限"}
+{"job_name": "爬虫开发工程师", "slary": "8k-12k", "area": "杭州 西湖区 黄龙", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "30k-50k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师（校招）", "slary": "10k-15k", "area": "上海 闵行区 莘庄", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "上海 静安区 汶水路", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "9k-14k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "8k-15k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "8k-11k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫工程师", "slary": "11k-22k", "area": "武汉 洪山区 光谷", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "20k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "后端爬虫工程师", "slary": "20k-35k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "7k-12k", "area": "互联网", "education": "100-499人"}
+{"job_name": "资深爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫工程师p", "slary": "20k-30k", "area": "深圳 宝安区 西乡", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "6k-11k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "北京 朝阳区 双井", "education": "本科"}
+{"job_name": "爬虫架构师", "slary": "20k-40k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫（python）工程师", "slary": "6k-10k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "7k-11k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "Python爬虫工程师", "slary": "10k-15k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "python爬虫实习", "slary": "3k-5k", "area": "上海 徐汇区 田林", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "旅游", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "8k-10k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "上海 虹口区 四川北路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "9k-14k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "上海 浦东新区 潍坊", "education": "大专"}
+{"job_name": "爬虫研发工程师", "slary": "15k-22k", "area": "电子商务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-5k", "area": "广告营销", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-10k", "area": "上海  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 江干区 四季青", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "20-99人"}
+{"job_name": "java爬虫工程师", "slary": "6k-10k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "济南 历下区 泉城路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "15k-24k", "area": "企业服务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "6k-11k", "area": "杭州 余杭区 仓前", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "7k-10k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "高薪直聘爬虫工程师", "slary": "4k-6k", "area": "北京 西城区 西单", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "python爬虫工程师", "slary": "4k-6k", "area": "长沙 岳麓区 麓谷", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "python爬虫挖掘", "slary": "15k-30k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-25k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "上海 杨浦区 五角场", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "爬虫定价算法", "slary": "15k-30k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 马连洼", "education": "本科"}
+{"job_name": "爬虫", "slary": "5k-7k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫负责人", "slary": "25k-50k", "area": "互联网金融", "education": "10000人以上"}
+{"job_name": "Python爬虫", "slary": "15k-30k", "area": "石家庄  ", "education": "大专"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "15k-20k", "area": "北京 海淀区 中关村", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫", "slary": "10k-15k", "area": "计算机软件", "education": "10000人以上"}
+{"job_name": "高级爬虫", "slary": "25k-45k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "高级爬虫leader", "slary": "30k-40k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "python(爬虫）", "slary": "10k-15k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫", "slary": "20k-40k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "西安  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "物流/仓储", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "南京 江宁区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "通信/网络设备", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "深圳 南山区 南头", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-24k", "area": "北京 海淀区 知春路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "18k-35k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "成都 锦江区 琉璃场", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "计算机软件", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "3k-6k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫", "slary": "4k-6k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "业务爬虫工程师", "slary": "10k-15k", "area": "厦门 思明区 会展中心", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "北京 朝阳区 太阳宫", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "30k-60k", "area": "人力资源服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "北京 海淀区 甘家口", "education": "本科"}
+{"job_name": "Java反爬虫", "slary": "25k-45k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "上海 长宁区 古北", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "13k-26k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-36k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "成都 武侯区 科华北路", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师-金服", "slary": "20k-40k", "area": "上海 徐汇区 龙华", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "医疗健康", "education": "1000-9999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "20k-30k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "搜索爬虫工程师", "slary": "20k-30k", "area": "地产经纪/中介", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-4k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "工程施工", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "广州 番禺区 市桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "9k-14k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师 T4", "slary": "12k-24k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "南京 玄武区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "14k-28k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "天津 西青区 华苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 牡丹园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-9k", "area": "上海 徐汇区 徐家汇", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "合肥  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "8k-13k", "area": "沈阳  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "计算机服务", "education": "500-999人"}
+{"job_name": "网络爬虫", "slary": "10k-15k", "area": "厦门 湖里区 金山", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "武汉 洪山区 光谷东", "education": "本科"}
+{"job_name": "网络爬虫工程师", "slary": "12k-18k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "python爬虫工程师", "slary": "3k-5k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-35k", "area": "广告/公关/会展", "education": "500-999人"}
+{"job_name": "Java  爬虫", "slary": "8k-16k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "1000-9999人"}
+{"job_name": "网络爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "优图爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "网络爬虫", "slary": "5k-8k", "area": "杭州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫", "slary": "10k-15k", "area": "广州 越秀区 水荫", "education": "大专"}
+{"job_name": "爬虫架构师", "slary": "13k-20k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "福州  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "企业服务", "education": "100-499人"}
+{"job_name": "java爬虫", "slary": "3k-4k", "area": "广州  ", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "20k-35k", "area": "其他行业", "education": "1000-9999人"}
+{"job_name": "爬虫架构专家", "slary": "30k-50k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "20k-30k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "后端开发（爬虫方向）", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "7k-12k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫/数据标注", "slary": "6k-9k", "area": "分类信息", "education": "10000人以上"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "泉州  ", "education": "学历不限"}
+{"job_name": "爬虫", "slary": "8k-13k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫实习生", "slary": "10k-12k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "16k-30k", "area": "苏州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "20k-40k", "area": "银行", "education": "1000-9999人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-24k", "area": "北京 东城区 朝阳门", "education": "本科"}
+{"job_name": "Java爬虫开发", "slary": "12k-24k", "area": "互联网", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 西北旺", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "12k-20k", "area": "餐饮", "education": "10000人以上"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "北京  ", "education": "本科"}
+{"job_name": "爬虫工程师（python）", "slary": "9k-13k", "area": "社交网络", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "35k-50k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "南京 建邺区 奥体", "education": "学历不限"}
+{"job_name": "爬虫高级工程师", "slary": "20k-40k", "area": "互联网金融", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-40k", "area": "北京 朝阳区 亮马桥", "education": "本科"}
+{"job_name": "数据工程（爬虫）", "slary": "20k-30k", "area": "社交网络", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "郑州  ", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫架构师", "slary": "30k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "8k-13k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-22k", "area": "上海 浦东新区 张江", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 皂君庙", "education": "本科"}
+{"job_name": "爬虫(Spider)工程师（武汉）", "slary": "16k-30k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "石家庄  ", "education": "本科"}
+{"job_name": "JAVA爬虫架构师", "slary": "35k-45k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 宝安区 新安", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫讲师", "slary": "10k-15k", "area": "深圳 福田区 华侨城", "education": "大专"}
+{"job_name": "高级Python爬虫工程师", "slary": "15k-25k", "area": "游戏", "education": "100-499人"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-23k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "杭州 西湖区 西溪", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "高级python爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java爬虫工程师", "slary": "4k-8k", "area": "长沙 岳麓区 麓谷", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java工程师（爬虫方向）", "slary": "11k-18k", "area": "成都 武侯区 科华北路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "厦门 思明区 滨海", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "13k-18k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "潍坊  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "济南 历下区 泺源", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-8k", "area": "媒体", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "济南 历下区 佛山街", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "苏州 吴中区 独墅湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "武汉 武昌区 黄鹤楼", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "济南 历城区 齐鲁软件园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "11k-17k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "上海 浦东新区 源深", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "成都 武侯区 新会展", "education": "本科"}
+{"job_name": "高德-爬虫架构专家", "slary": "28k-56k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 静安区 南京西路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-7k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "5k-10k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "合肥  ", "education": "本科"}
+{"job_name": "爬虫主管", "slary": "25k-40k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 朝阳区 四惠", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "咨询", "education": "100-499人"}
+{"job_name": "网络爬虫", "slary": "3k-8k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫经理", "slary": "23k-45k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "郑州  ", "education": "本科"}
+{"job_name": "网络爬虫研发工程师", "slary": "9k-14k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "厦门 湖里区 万达广场", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "1k-2k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "网络爬虫工程师", "slary": "6k-8k", "area": "成都 青羊区 天府广场", "education": "大专"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫架构师", "slary": "5k-10k", "area": "上海 浦东新区 陆家嘴", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "0-20人"}
+{"job_name": "爬虫java", "slary": "8k-10k", "area": "南京  ", "education": "本科"}
+{"job_name": "高级爬虫架构师", "slary": "35k-45k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-20k", "area": "成都 武侯区 火车南站", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "11k-18k", "area": "移动互联网", "education": "0-20人"}
+{"job_name": "Python爬虫⼯工程师", "slary": "18k-35k", "area": "济南 历下区 奥体中心", "education": "大专"}
+{"job_name": "高级爬虫Python工程师", "slary": "14k-28k", "area": "其他专业服务", "education": "100-499人"}
+{"job_name": "搜索爬虫工程师-搜索与推荐", "slary": "15k-30k", "area": "长沙 雨花区 高桥", "education": "大专"}
+{"job_name": "资深Python爬虫工程师", "slary": "25k-50k", "area": "法律", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "高级爬虫工程师", "slary": "8k-12k", "area": "互联网", "education": "500-999人"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师-QM201908", "slary": "15k-20k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫高级工程师", "slary": "15k-30k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师中级", "slary": "12k-20k", "area": "北京 朝阳区 望京", "education": "硕士"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "Python爬虫研发工程师", "slary": "10k-18k", "area": "武汉 江汉区 常青", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "Java爬虫工程师", "slary": "5k-10k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "25k-35k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "20k-35k", "area": "广州 海珠区 客村", "education": "学历不限"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "杭州 滨江区 滨江区政府", "education": "本科"}
+{"job_name": "资深爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python 爬虫工程师", "slary": "8k-10k", "area": "成都 锦江区 琉璃场", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "O2O", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "12k-16k", "area": "广告营销", "education": "100-499人"}
+{"job_name": "爬虫专家", "slary": "20k-40k", "area": "深圳 南山区 南山中心", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "1000-9999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "深圳 南山区 西丽", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "10k-12k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-50k", "area": "厦门 湖里区 万达广场", "education": "学历不限"}
+{"job_name": "爬虫开发工程师", "slary": "8k-12k", "area": "杭州 西湖区 黄龙", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "30k-50k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师（校招）", "slary": "10k-15k", "area": "上海 闵行区 莘庄", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "上海 静安区 汶水路", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "9k-14k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "8k-15k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "8k-11k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫工程师", "slary": "11k-22k", "area": "武汉 洪山区 光谷", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "20k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "后端爬虫工程师", "slary": "20k-35k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "7k-12k", "area": "互联网", "education": "100-499人"}
+{"job_name": "资深爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫工程师p", "slary": "20k-30k", "area": "深圳 宝安区 西乡", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "6k-11k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "北京 朝阳区 双井", "education": "本科"}
+{"job_name": "爬虫架构师", "slary": "20k-40k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫（python）工程师", "slary": "6k-10k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "7k-11k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "Python爬虫工程师", "slary": "10k-15k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "python爬虫实习", "slary": "3k-5k", "area": "上海 徐汇区 田林", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "旅游", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "8k-10k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "上海 虹口区 四川北路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "9k-14k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "上海 浦东新区 潍坊", "education": "大专"}
+{"job_name": "爬虫研发工程师", "slary": "15k-22k", "area": "电子商务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-5k", "area": "广告营销", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-10k", "area": "上海  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 江干区 四季青", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "20-99人"}
+{"job_name": "java爬虫工程师", "slary": "6k-10k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "济南 历下区 泉城路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "15k-24k", "area": "企业服务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "6k-11k", "area": "杭州 余杭区 仓前", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "7k-10k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "高薪直聘爬虫工程师", "slary": "4k-6k", "area": "北京 西城区 西单", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "python爬虫工程师", "slary": "4k-6k", "area": "长沙 岳麓区 麓谷", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "python爬虫挖掘", "slary": "15k-30k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-25k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "上海 杨浦区 五角场", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "爬虫定价算法", "slary": "15k-30k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 马连洼", "education": "本科"}
+{"job_name": "爬虫", "slary": "5k-7k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫负责人", "slary": "25k-50k", "area": "互联网金融", "education": "10000人以上"}
+{"job_name": "Python爬虫", "slary": "15k-30k", "area": "石家庄  ", "education": "大专"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "15k-20k", "area": "北京 海淀区 中关村", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫", "slary": "10k-15k", "area": "计算机软件", "education": "10000人以上"}
+{"job_name": "高级爬虫", "slary": "25k-45k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "高级爬虫leader", "slary": "30k-40k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "python(爬虫）", "slary": "10k-15k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫", "slary": "20k-40k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "西安  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "物流/仓储", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "南京 江宁区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "通信/网络设备", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "深圳 南山区 南头", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-24k", "area": "北京 海淀区 知春路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "18k-35k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "成都 锦江区 琉璃场", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "25k-50k", "area": "计算机软件", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "3k-6k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫", "slary": "4k-6k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "业务爬虫工程师", "slary": "10k-15k", "area": "厦门 思明区 会展中心", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "北京 朝阳区 太阳宫", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "30k-60k", "area": "人力资源服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "北京 海淀区 甘家口", "education": "本科"}
+{"job_name": "Java反爬虫", "slary": "25k-45k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "上海 长宁区 古北", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-13k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-6k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "13k-26k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "18k-36k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "成都 武侯区 科华北路", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师-金服", "slary": "20k-40k", "area": "上海 徐汇区 龙华", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "医疗健康", "education": "1000-9999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "20k-30k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "搜索爬虫工程师", "slary": "20k-30k", "area": "地产经纪/中介", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "3k-4k", "area": "哈尔滨  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "工程施工", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "广州 番禺区 市桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 朝阳区 酒仙桥", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "9k-14k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师 T4", "slary": "12k-24k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "南京 玄武区 ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "14k-28k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "天津 西青区 华苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 牡丹园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-9k", "area": "上海 徐汇区 徐家汇", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "合肥  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "JAVA爬虫工程师", "slary": "8k-13k", "area": "沈阳  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "计算机服务", "education": "500-999人"}
+{"job_name": "网络爬虫", "slary": "10k-15k", "area": "厦门 湖里区 金山", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "武汉 洪山区 光谷东", "education": "本科"}
+{"job_name": "网络爬虫工程师", "slary": "12k-18k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "python爬虫工程师", "slary": "3k-5k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-35k", "area": "广告/公关/会展", "education": "500-999人"}
+{"job_name": "Java  爬虫", "slary": "8k-16k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "1000-9999人"}
+{"job_name": "网络爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "优图爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "网络爬虫", "slary": "5k-8k", "area": "杭州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫", "slary": "10k-15k", "area": "广州 越秀区 水荫", "education": "大专"}
+{"job_name": "爬虫架构师", "slary": "13k-20k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "福州  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "企业服务", "education": "100-499人"}
+{"job_name": "java爬虫", "slary": "3k-4k", "area": "广州  ", "education": "学历不限"}
+{"job_name": "爬虫工程师", "slary": "20k-35k", "area": "其他行业", "education": "1000-9999人"}
+{"job_name": "爬虫架构专家", "slary": "30k-50k", "area": "北京 丰台区 科技园区", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "数据服务", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "20k-30k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "后端开发（爬虫方向）", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "爬虫", "slary": "7k-12k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫/数据标注", "slary": "6k-9k", "area": "分类信息", "education": "10000人以上"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "泉州  ", "education": "学历不限"}
+{"job_name": "爬虫", "slary": "8k-13k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫实习生", "slary": "10k-12k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "16k-30k", "area": "苏州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "20k-40k", "area": "银行", "education": "1000-9999人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-24k", "area": "北京 东城区 朝阳门", "education": "本科"}
+{"job_name": "Java爬虫开发", "slary": "12k-24k", "area": "互联网", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-30k", "area": "北京 海淀区 西北旺", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "12k-20k", "area": "餐饮", "education": "10000人以上"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "杭州 西湖区 古荡", "education": "本科"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "智能硬件", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "北京  ", "education": "本科"}
+{"job_name": "爬虫工程师（python）", "slary": "9k-13k", "area": "社交网络", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "35k-50k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "南京 建邺区 奥体", "education": "学历不限"}
+{"job_name": "爬虫高级工程师", "slary": "20k-40k", "area": "互联网金融", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-40k", "area": "北京 朝阳区 亮马桥", "education": "本科"}
+{"job_name": "数据工程（爬虫）", "slary": "20k-30k", "area": "社交网络", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "郑州  ", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫架构师", "slary": "30k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "8k-13k", "area": "互联网", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-22k", "area": "上海 浦东新区 张江", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "10k-15k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "郑州  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "北京 海淀区 皂君庙", "education": "本科"}
+{"job_name": "爬虫(Spider)工程师（武汉）", "slary": "16k-30k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "石家庄  ", "education": "本科"}
+{"job_name": "JAVA爬虫架构师", "slary": "35k-45k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 宝安区 新安", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫讲师", "slary": "10k-15k", "area": "深圳 福田区 华侨城", "education": "大专"}
+{"job_name": "高级Python爬虫工程师", "slary": "15k-25k", "area": "游戏", "education": "100-499人"}
+{"job_name": "爬虫工程师（Python）", "slary": "15k-25k", "area": "北京 朝阳区 团结湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-23k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "6k-10k", "area": "杭州 西湖区 西溪", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "25k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "高级python爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java爬虫工程师", "slary": "4k-8k", "area": "长沙 岳麓区 麓谷", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "Java工程师（爬虫方向）", "slary": "11k-18k", "area": "成都 武侯区 科华北路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "企业服务", "education": "1000-9999人"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "企业服务", "education": "500-999人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "厦门 思明区 滨海", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "13k-18k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "潍坊  ", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-16k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "济南 历下区 泺源", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-8k", "area": "媒体", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "济南 历下区 佛山街", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "8k-13k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "5k-10k", "area": "苏州 吴中区 独墅湖", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "武汉 武昌区 黄鹤楼", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-20k", "area": "济南 历城区 齐鲁软件园", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "11k-17k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "4k-6k", "area": "上海 浦东新区 源深", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "成都 武侯区 新会展", "education": "本科"}
+{"job_name": "高德-爬虫架构专家", "slary": "28k-56k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "上海 静安区 南京西路", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "4k-7k", "area": "深圳 龙岗区 坂田", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "5k-10k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "合肥  ", "education": "本科"}
+{"job_name": "爬虫主管", "slary": "25k-40k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "北京 朝阳区 四惠", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "咨询", "education": "100-499人"}
+{"job_name": "网络爬虫", "slary": "3k-8k", "area": "北京 海淀区 清河", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-25k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫经理", "slary": "23k-45k", "area": "北京 朝阳区 望京", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "python爬虫工程师", "slary": "5k-10k", "area": "深圳 南山区 科技园", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "6k-8k", "area": "互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-15k", "area": "郑州  ", "education": "本科"}
+{"job_name": "网络爬虫研发工程师", "slary": "9k-14k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "10k-13k", "area": "厦门 湖里区 万达广场", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "1k-2k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "Python爬虫", "slary": "4k-6k", "area": "上海 徐汇区 漕河泾", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "网络爬虫工程师", "slary": "6k-8k", "area": "成都 青羊区 天府广场", "education": "大专"}
+{"job_name": "python爬虫", "slary": "10k-20k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "爬虫架构师", "slary": "5k-10k", "area": "上海 浦东新区 陆家嘴", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "0-20人"}
+{"job_name": "爬虫java", "slary": "8k-10k", "area": "南京  ", "education": "本科"}
+{"job_name": "高级爬虫架构师", "slary": "35k-45k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "数据爬虫工程师", "slary": "12k-20k", "area": "成都 武侯区 火车南站", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "11k-18k", "area": "移动互联网", "education": "0-20人"}
+{"job_name": "Python爬虫⼯工程师", "slary": "18k-35k", "area": "济南 历下区 奥体中心", "education": "大专"}
+{"job_name": "高级爬虫Python工程师", "slary": "14k-28k", "area": "其他专业服务", "education": "100-499人"}
+{"job_name": "搜索爬虫工程师-搜索与推荐", "slary": "15k-30k", "area": "长沙 雨花区 高桥", "education": "大专"}
+{"job_name": "资深Python爬虫工程师", "slary": "25k-50k", "area": "法律", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "高级爬虫工程师", "slary": "8k-12k", "area": "互联网", "education": "500-999人"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "上海 浦东新区 张江", "education": "本科"}
+{"job_name": "爬虫工程师-QM201908", "slary": "15k-20k", "area": "移动互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "11k-20k", "area": "深圳 南山区 科技园", "education": "本科"}
+{"job_name": "爬虫高级工程师", "slary": "15k-30k", "area": "互联网", "education": "20-99人"}
+{"job_name": "爬虫工程师中级", "slary": "12k-20k", "area": "北京 朝阳区 望京", "education": "硕士"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "移动互联网", "education": "500-999人"}
+{"job_name": "Python爬虫研发工程师", "slary": "10k-18k", "area": "武汉 江汉区 常青", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "15k-25k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "Java爬虫工程师", "slary": "5k-10k", "area": "武汉 江夏区 流芳", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "25k-35k", "area": "互联网", "education": "10000人以上"}
+{"job_name": "Python爬虫工程师", "slary": "20k-35k", "area": "广州 海珠区 客村", "education": "学历不限"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "500-999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "杭州 滨江区 滨江区政府", "education": "本科"}
+{"job_name": "资深爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python 爬虫工程师", "slary": "8k-10k", "area": "成都 锦江区 琉璃场", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "8k-13k", "area": "O2O", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "北京 朝阳区 高碑店", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "12k-16k", "area": "广告营销", "education": "100-499人"}
+{"job_name": "爬虫专家", "slary": "20k-40k", "area": "深圳 南山区 南山中心", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "15k-25k", "area": "电子商务", "education": "1000-9999人"}
+{"job_name": "爬虫开发工程师", "slary": "15k-30k", "area": "深圳 南山区 西丽", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "10k-12k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "25k-50k", "area": "厦门 湖里区 万达广场", "education": "学历不限"}
+{"job_name": "爬虫开发工程师", "slary": "8k-12k", "area": "杭州 西湖区 黄龙", "education": "大专"}
+{"job_name": "高级爬虫工程师", "slary": "30k-50k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫工程师（校招）", "slary": "10k-15k", "area": "上海 闵行区 莘庄", "education": "本科"}
+{"job_name": "Python爬虫工程师", "slary": "15k-30k", "area": "互联网", "education": "1000-9999人"}
+{"job_name": "高级爬虫工程师", "slary": "15k-20k", "area": "上海 静安区 汶水路", "education": "大专"}
+{"job_name": "爬虫开发工程师", "slary": "9k-14k", "area": "电子商务", "education": "100-499人"}
+{"job_name": "爬虫开发工程师", "slary": "8k-15k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "Java爬虫工程师", "slary": "8k-11k", "area": "互联网", "education": "100-499人"}
+{"job_name": "python爬虫工程师", "slary": "11k-22k", "area": "武汉 洪山区 光谷", "education": "本科"}
+{"job_name": "python爬虫工程师", "slary": "20k-30k", "area": "信息安全", "education": "1000-9999人"}
+{"job_name": "后端爬虫工程师", "slary": "20k-35k", "area": "北京 海淀区 西二旗", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "7k-12k", "area": "互联网", "education": "100-499人"}
+{"job_name": "资深爬虫工程师", "slary": "15k-20k", "area": "北京 海淀区 上地", "education": "硕士"}
+{"job_name": "爬虫开发工程师", "slary": "15k-25k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫工程师p", "slary": "20k-30k", "area": "深圳 宝安区 西乡", "education": "本科"}
+{"job_name": "高级爬虫工程师", "slary": "6k-11k", "area": "移动互联网", "education": "100-499人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "北京 朝阳区 双井", "education": "本科"}
+{"job_name": "爬虫架构师", "slary": "20k-40k", "area": "数据服务", "education": "20-99人"}
+{"job_name": "爬虫（python）工程师", "slary": "6k-10k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "Java爬虫工程师", "slary": "7k-11k", "area": "移动互联网", "education": "1000-9999人"}
+{"job_name": "Python爬虫工程师", "slary": "10k-15k", "area": "武汉 洪山区 光谷", "education": "大专"}
+{"job_name": "python爬虫实习", "slary": "3k-5k", "area": "上海 徐汇区 田林", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "旅游", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "java爬虫工程师", "slary": "8k-10k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 余杭区 仓前", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "15k-30k", "area": "互联网金融", "education": "20-99人"}
+{"job_name": "高级爬虫工程师", "slary": "12k-24k", "area": "上海 虹口区 四川北路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "9k-14k", "area": "数据服务", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "上海 浦东新区 潍坊", "education": "大专"}
+{"job_name": "爬虫研发工程师", "slary": "15k-22k", "area": "电子商务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "3k-5k", "area": "广告营销", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "8k-10k", "area": "上海  ", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-18k", "area": "计算机软件", "education": "100-499人"}
+{"job_name": "爬虫工程师", "slary": "8k-12k", "area": "杭州 江干区 四季青", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "互联网", "education": "20-99人"}
+{"job_name": "java爬虫工程师", "slary": "6k-10k", "area": "北京 朝阳区 东大桥", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "10k-15k", "area": "济南 历下区 泉城路", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "15k-24k", "area": "企业服务", "education": "0-20人"}
+{"job_name": "爬虫工程师", "slary": "6k-11k", "area": "杭州 余杭区 仓前", "education": "大专"}
+{"job_name": "爬虫工程师", "slary": "7k-10k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "高薪直聘爬虫工程师", "slary": "4k-6k", "area": "北京 西城区 西单", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-30k", "area": "移动互联网", "education": "20-99人"}
+{"job_name": "python爬虫工程师", "slary": "4k-6k", "area": "长沙 岳麓区 麓谷", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "12k-20k", "area": "互联网", "education": "20-99人"}
+{"job_name": "python爬虫挖掘", "slary": "15k-30k", "area": "北京 朝阳区 北苑", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-25k", "area": "电子商务", "education": "20-99人"}
+{"job_name": "爬虫工程师", "slary": "10k-20k", "area": "上海 杨浦区 五角场", "education": "本科"}
+{"job_name": "爬虫工程师", "slary": "20k-40k", "area": "计算机软件", "education": "20-99人"}
+{"job_name": "爬虫定价算法", "slary": "15k-30k", "area": "北京 朝阳区 望京", "education": "本科"}
